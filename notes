@@ -1,0 +1,7 @@
+Program no: 1
+
+This is the program that show what is the problem if we are using inheritance.
+
+Drawback: In this program if we want to add "Robot" class that can drive and fly also so we can't do it using this java project.
+
+Solution: Refer "01-StrategyDP(Vehicle(Use case-3)solution using composition)" java project to see the solution of the this problem.
